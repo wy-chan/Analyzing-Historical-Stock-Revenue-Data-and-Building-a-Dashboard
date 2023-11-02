@@ -2,11 +2,24 @@
 Applied Data Science Specialization | Course | IBM
 
 ## Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
+<!-- TABLE OF CONTENTS -->
 
+## Table of Contents
+
+- [Question 1 - Extracting Tesla Stock Data Using finance](#Q1)
+- [Question 2 - Extracting Tesla Revenue Data Using Webscraping](#)
+- [Question 3 - Extracting GameStop Stock Data Using finance](#)
+- [Question 4 - Extracting GameStop Revenue Data Using Webscraping](#)
+- [Question 5 - Tesla Stock and Revenue Dashboard](#)
+- [Question 6 - GameStop Stock and Revenue Dashboard](#)
+- [Question 7 - Sharing your Assignment Notebook](#)
+---
+<div class="Q1">
 - [x] <b>Question 1 - Extracting Tesla Stock Data Using finance</b> - 2 Points
 
 |![Tesla Stock Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q1.png)|
 | - |
+</div>
 
 ---
 
