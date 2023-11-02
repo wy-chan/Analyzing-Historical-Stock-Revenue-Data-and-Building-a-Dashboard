@@ -5,7 +5,7 @@ Applied Data Science Specialization | Course | IBM
 
 - [x] Question 1 - Extracting Tesla Stock Data Using yfinance - 2 Points
 
-<img style="border: 5px solid #555;" src="Screenshots/Q1.png" alt="Tesla Stock Data" >   
+<img style="border: 5px solid black;" src="Screenshots/Q1.png" alt="Tesla Stock Data">   
 
 - [x] Question 2 - Extracting Tesla Revenue Data Using Webscraping - 1 Points
 
