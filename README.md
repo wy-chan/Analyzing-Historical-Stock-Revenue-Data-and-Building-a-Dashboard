@@ -14,7 +14,9 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 - Question 7 - [Sharing your Assignment Notebook](#Q7)
 
 <br>
+
 ---
+
 <br>
 <div id="Q1">
  
@@ -23,8 +25,10 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 |![Tesla Stock Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q1.png)|
 | - |
 </div>
-<br>
+<be>
+
 ---
+
 <br>
 <div id="Q2">
  
@@ -33,8 +37,10 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 |![Tesla Revenue Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q2b.png)|
 | - |
 </div>
-<br>
+<be>
+
 ---
+
 <br>
 <div id="Q3">
  
@@ -44,7 +50,9 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 | - |
 </div>
  <br>
+ 
 ---
+
 <br>
 <div id="Q4">
  
@@ -53,8 +61,10 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 |![GameStop Revenue Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q4b.png)|
 | - |
 </div>
-<br>
+<be>
+
 ---
+
 <br>
 <div id="Q5">
  
@@ -63,8 +73,10 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 |![Tesla Stock and Revenue Dashboard](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q5.png)|
 | - |
 </div>
-<br>
+<be>
+
 ---
+
 <br>
 <div id="Q6">
  
@@ -73,8 +85,10 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 |![GameStop Stock and Revenue Dashboard](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q6.png)|
 | - |
 </div>
-<br>
+<be>
+
 ---
+
 <br>
 <div id="Q7">
  
@@ -84,5 +98,6 @@ Python Project for Data Science | Applied Data Science Specialization | Course |
 | - |
 
 </div>
-<br>
+<be>
+
 ---
