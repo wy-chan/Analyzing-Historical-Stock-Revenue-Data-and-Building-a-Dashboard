@@ -1,6 +1,9 @@
-## Python Project for Data Science
+# Python Project for Data Science
 
-# Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
+## Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
+
+- <a href="https://github.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/Final%20Assignment_completed.ipynb" target="_blank">Completed File</a>.
+
 
 - [x] Question 1 - Extracting Tesla Stock Data Using yfinance - 2 Points
 - [x] Question 2 - Extracting Tesla Revenue Data Using Webscraping - 1 Points
