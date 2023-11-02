@@ -5,7 +5,6 @@ Applied Data Science Specialization | Course | IBM
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
-<br>
 - Question 1 - [Extracting Tesla Stock Data Using finance](#Q1)
 - Question 2 - [Extracting Tesla Revenue Data Using Webscraping](#Q2)
 - Question 3 - [Extracting GameStop Stock Data Using finance](#Q3)
@@ -13,6 +12,7 @@ Applied Data Science Specialization | Course | IBM
 - Question 5 - [Tesla Stock and Revenue Dashboard](#Q5)
 - Question 6 - [GameStop Stock and Revenue Dashboard](#Q6)
 - Question 7 - [Sharing your Assignment Notebook](#Q7)
+
 <br>
 ---
 <br>
