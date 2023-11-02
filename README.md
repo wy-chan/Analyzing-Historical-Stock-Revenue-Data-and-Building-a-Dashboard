@@ -4,8 +4,9 @@ Applied Data Science Specialization | Course | IBM
 ## Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
 
 - [x] Question 1 - Extracting Tesla Stock Data Using yfinance - 2 Points
-      
+|------------------|      
 |![Tesla Stock Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q1.png)|
+|------------------|
 
 - [x] Question 2 - Extracting Tesla Revenue Data Using Webscraping - 1 Points
 
