@@ -1,4 +1,4 @@
-# Python Project for Data Science
+Python Project for Data Science
 Applied Data Science Specialization | Course | IBM
 
 ## Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
