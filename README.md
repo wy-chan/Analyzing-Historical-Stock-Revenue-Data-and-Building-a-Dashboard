@@ -94,7 +94,7 @@ Python Project for Data Science | Course | IBM
  
 - [x] <b>Question 7 - Sharing your Assignment Notebook</b> - 2 Points
 
-|<a href="https://github.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/Final%20Assignment_completed.ipynb" target="_blank">Completed Notebook</a>|
+|&rarr; <a href="https://github.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/Final%20Assignment_completed.ipynb" target="_blank">Completed Notebook</a>|
 | - |
 
 </div>
