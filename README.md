@@ -5,7 +5,8 @@ Applied Data Science Specialization | Course | IBM
 
 - [x] Question 1 - Extracting Tesla Stock Data Using yfinance - 2 Points
 
-<img style="border: 5px solid black;" src="Screenshots/Q1.png" alt="Tesla Stock Data">   
+|![Tesla Stock Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q1.png)|
+| - |
 
 - [x] Question 2 - Extracting Tesla Revenue Data Using Webscraping - 1 Points
 
@@ -17,7 +18,7 @@ Applied Data Science Specialization | Course | IBM
  
 - [x] Question 4 - Extracting GameStop Revenue Data Using Webscraping - 1 Points
 
-|![GameStop Revenue Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q4.png)|
+|![GameStop Revenue Data](https://raw.githubusercontent.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/main/Screenshots/Q4b.png)|
 
 - [x] Question 5 - Tesla Stock and Revenue Dashboard - 2 Points
 
