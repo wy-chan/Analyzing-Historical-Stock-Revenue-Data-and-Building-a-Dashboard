@@ -3,6 +3,9 @@ Python Project for Data Science | Course | IBM
 ## Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
 <br>
 
+|&rarr; <a href="https://github.com/wy-chan/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/Final%20Assignment_completed.ipynb" target="_blank">Completed Notebook</a>|
+| - |
+
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents:
 - Question 1 - [Extracting Tesla Stock Data Using finance](#Q1)
